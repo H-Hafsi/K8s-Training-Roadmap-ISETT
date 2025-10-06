@@ -1,4 +1,4 @@
-# 🧪 Lab 2: Deployments, ReplicaSets, and Basic Services (2025 Edition – K3s)
+# 🧪 Lab 2: Core Workload Resources
 
 ## 🧠 Theoretical Introduction
 
